@@ -6,6 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>title</title>
 </head>
-<body>
+<body> 
 </body>
 </html>
