@@ -1,9 +1,9 @@
 @extends("layouts.master")
 
 @section("contenu")
-    <!-- Button trigger modal -->
+    {{-- <!-- Button trigger modal -->
     <button type="button" class="btn btn-primary mb-2" data-toggle="modal" data-target="#exampleModalCenter">Modal centered</button>
-    <!-- Modal -->
+    <!-- Modal --> --}}
     <div class="modal fade" id="exampleModalCenter">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
